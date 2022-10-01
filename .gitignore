@@ -1,0 +1,13 @@
+## File created by Unnikrishnan
+## Created on 2022-09-23
+## Created at :
+##    Kappa Lab 
+##    Department of Mechanical and Aerospace Engineering 
+##    Indian Institute of Technology Hyderabad
+## Created .gitignore to ignore abaqus files which need not be tracked by git
+## 
+
+# # folders
+
+recordings/
+recordings/*
